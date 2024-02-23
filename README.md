@@ -1,10 +1,10 @@
 # Алексей Пивоваров
 
 ## Навыки:
-- Программирование на C++, C#, Python, Java
-- Веб-разработка: HTML, CSS, JavaScript, Bootstrap, React Native
-- Опыт работы с Git
 - Разработка компьютерных игр на Unity
+- Опыт работы с Git
+- Программирование на C#, C++, Python
+- Веб-разработка: HTML, CSS, JavaScript, Bootstrap, React Native, .NET
 - Знание SQL
 - Работа в команде
 - ООП
