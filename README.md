@@ -75,8 +75,6 @@
 Скриншоты:
 ![2](https://github.com/MizAless/MizAless/assets/44200635/2deb6d39-23d7-4ecd-8bc0-fd7cd88ed3bc)
 ![1](https://github.com/MizAless/MizAless/assets/44200635/16176c29-6b8c-41fb-9527-31b4fccd1d7a)
-![UnityChemicalExperiments-SampleScene-Windows_-Mac_-Linux-Unity-2021 3](https://github.com/MizAless/MizAless/assets/44200635/df477cea-0835-4052-9498-1ec7d5670e7e)
-
 
 Ссылка на репозиторий: [UnityChemicalExperiments](https://github.com/MizAless/UnityChemicalExperiments)
 
