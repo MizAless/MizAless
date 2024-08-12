@@ -26,7 +26,6 @@
 
 [![Watch the video](https://img.youtube.com/vi/DdJbpqrDZkc/0.jpg)](https://www.youtube.com/watch?v=DdJbpqrDZkc)
 
-
 Скриншоты:
 ![image](https://github.com/user-attachments/assets/411b2708-0383-4592-8b92-e630bb96e2e1)
 ![image](https://github.com/user-attachments/assets/ce9b43c6-647d-4989-be33-e6634825f9f5)
@@ -34,6 +33,16 @@
 
 Ссылка на игру:
 https://mizaless.itch.io/killfest
+
+### Прототип комбо системы для будущих проектов
+
+Жанр: 3rdPersonAction
+
+Описание: Комбо система, которая поддерживает создание разных комбо с помощью создания атак через объекты Unity.
+
+Скриншоты:
+ ![AttackSystemUi](https://github.com/user-attachments/assets/352a29f3-e6b9-4568-912a-7d2ad84ef118)
+![AttackSystem3rdPerson](https://github.com/user-attachments/assets/b300b15a-4a33-4339-aaf0-3c60ed62ba48)
 
 ### Игра "Piggy Love" выложенная на Яндекс Играх
 
