@@ -34,6 +34,9 @@
 Ссылка на игру:
 https://mizaless.itch.io/killfest
 
+Ссылка на репозиторий:
+https://github.com/MizAless/FirstShooter
+
 ### Прототип комбо системы для будущих проектов
 
 Жанр: 3rdPersonAction
@@ -41,8 +44,11 @@ https://mizaless.itch.io/killfest
 Описание: Комбо система, которая поддерживает создание разных комбо с помощью создания атак через объекты Unity.
 
 Скриншоты:
- ![AttackSystemUi](https://github.com/user-attachments/assets/352a29f3-e6b9-4568-912a-7d2ad84ef118)
+![AttackSystemUi](https://github.com/user-attachments/assets/352a29f3-e6b9-4568-912a-7d2ad84ef118)
 ![AttackSystem3rdPerson](https://github.com/user-attachments/assets/b300b15a-4a33-4339-aaf0-3c60ed62ba48)
+
+Ссылка на репозиторий:
+https://github.com/MizAless/AttackSystem
 
 ### Игра "Piggy Love" выложенная на Яндекс Играх
 
@@ -58,6 +64,8 @@ https://mizaless.itch.io/killfest
 
 
 Ссылка на игру: [Piggy Love](https://yandex.ru/games/app/294450)
+
+Ссылка на репозиторий: https://github.com/MizAless/Pig-upid
 
 ### Игра "FireCat" для SibJam
 
