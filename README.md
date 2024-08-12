@@ -23,7 +23,7 @@
 Описание: Шутер сделанный в течении геймджема. Было ограничение в 300 строк кода. Геймджем состоял по инициативе участника творческой мастерской Романа Сакутина.
 
 Трейлер:
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{DdJbpqrDZkc})](https://youtu.be/{DdJbpqrDZkc})
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 
 
 Скриншоты:
