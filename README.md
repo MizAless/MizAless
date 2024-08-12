@@ -22,7 +22,8 @@
 
 Описание: Шутер сделанный в течении геймджема. Было ограничение в 300 строк кода. Геймджем состоял
 
-Трейлер: https://www.youtube.com/watch?v=DdJbpqrDZkc
+Трейлер:
+![video](https://www.youtube.com/watch?v=DdJbpqrDZkc)
 
 Скриншоты:
 ![image](https://github.com/user-attachments/assets/411b2708-0383-4592-8b92-e630bb96e2e1)
