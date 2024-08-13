@@ -13,7 +13,7 @@
 
 ## Портфолио:
 
-### "KillFest" шутер для GameJame
+### "KillFest" шутер для GameJam
 
 Жанр: шутер
 
