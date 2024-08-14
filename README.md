@@ -31,9 +31,6 @@
 Ссылка на игру:
 https://mizaless.itch.io/killfest
 
-Ссылка на репозиторий:
-https://github.com/MizAless/FirstShooter
-
 ### Прототип комбо системы для будущих проектов
 
 Жанр: 3rdPersonAction
