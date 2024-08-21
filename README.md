@@ -96,8 +96,6 @@ https://github.com/MizAless/AttackSystem
 ![ProjectA-SampleScene-Windows_-Mac_-Linux-Unity-2021 3_1 (2)](https://github.com/MizAless/MizAless/assets/44200635/cb415550-2d12-4c16-8c50-88da0d4eece1)
 
 
-Ссылка на репозиторий: [ProjectA](https://github.com/MizAless/ProjectA)
-
 ### Тестовые проекты:
 
 - Основа обучающей игры для лабораторных экспериментов по химии
@@ -105,8 +103,6 @@ https://github.com/MizAless/AttackSystem
 Скриншоты:
 ![2](https://github.com/MizAless/MizAless/assets/44200635/2deb6d39-23d7-4ecd-8bc0-fd7cd88ed3bc)
 ![1](https://github.com/MizAless/MizAless/assets/44200635/16176c29-6b8c-41fb-9527-31b4fccd1d7a)
-
-Ссылка на репозиторий: [UnityChemicalExperiments](https://github.com/MizAless/UnityChemicalExperiments)
 
 Количество просмотров:
 ![Visitor Count](https://profile-counter.glitch.me/MizAless/count.svg)
