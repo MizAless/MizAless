@@ -18,6 +18,9 @@
  
 ## Портфолио:
 
+[output.webm](https://github.com/user-attachments/assets/a3a2d9ee-18cc-4606-a930-0766233da1b5)
+
+
 ### "KillFest" шутер для GameJam
 
 Жанр: шутер
