@@ -18,10 +18,7 @@
  
 ## Портфолио:
 
-[output.webm](https://github.com/user-attachments/assets/a3a2d9ee-18cc-4606-a930-0766233da1b5)
-https://github.com/user-attachments/assets/f40cb7c8-1bcd-4c9d-bcbb-49cbbf576164
-
-
+[](https://github.com/user-attachments/assets/26a44457-044a-405a-a466-ab33509025ed)
 
 ### "KillFest" шутер для GameJam
 
