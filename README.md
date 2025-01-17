@@ -20,7 +20,7 @@
 
 [](https://github.com/user-attachments/assets/26a44457-044a-405a-a466-ab33509025ed)
 
-[](https://github.com/MizAless/TestGif/blob/main/flappy.gif)
+[flappy.gif](https://github.com/MizAless/TestGif/blob/main/flappy.gif)
 
 ### "KillFest" шутер для GameJam
 
