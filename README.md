@@ -80,6 +80,8 @@ https://mizaless.itch.io/killfest
 
  ![Elon](https://github.com/user-attachments/assets/687942c1-b7ff-4a27-bf82-e49a08c6c093)
 
+[Ссылка на игру](https://yandex.ru/games/app/394326?lang=ru)
+
 ### Прототип комбо системы для будущих проектов
 
 Жанр: 3rdPersonAction
