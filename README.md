@@ -24,6 +24,8 @@
 
 ![flappy](https://github.com/MizAless/TestGif/blob/main/flappy.gif)
 
+[Ссылка на репозиторий](https://github.com/MizAless/IJuniorFlappyTerminator)
+
 ### "KillFest" шутер для GameJam
 
 Жанр: шутер
