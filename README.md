@@ -32,6 +32,10 @@
 
 ![equipment](https://github.com/MizAless/TestGif/blob/main/equipment.gif)
 
+Система профессий.
+
+![prof](https://github.com/MizAless/TestGif/blob/main/prof.gif)
+
 Возможность добычи различных ресурсов в afk и idle режимах.
 
 ![farm](https://github.com/MizAless/TestGif/blob/main/farm.gif)
@@ -40,9 +44,7 @@
 
 ![craft](https://github.com/MizAless/TestGif/blob/main/craft.gif)
 
-Система профессий.
-
-А также враги, автоматическое убийство врагов, 
+А также враги, автоматическое убийство врагов, и многое другое.
 
 ### Pet-проект DarkFlappy
 
