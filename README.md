@@ -141,24 +141,6 @@ https://github.com/MizAless/AttackSystem
 
 Ссылка на репозиторий: [Coin Sort](https://github.com/MizAless/CoinSort)
 
-### Глобальная игра (MVP в разработке)
-
-Жанр: Hack&Slash/Action RPG с продвинутой боевой системой.
-
-Скриншоты:
-![output_video-cutter-js com_](https://github.com/MizAless/MizAless/assets/44200635/de3bd383-f570-457d-a028-23947e79f6cf)
-![ProjectA-SampleScene-Windows_-Mac_-Linux-Unity-2021 3](https://github.com/MizAless/MizAless/assets/44200635/c4d3c5a1-ca89-4c59-8315-12324d54d43a)
-![ProjectA-SampleScene-Windows_-Mac_-Linux-Unity-2021 3_1 (2)](https://github.com/MizAless/MizAless/assets/44200635/cb415550-2d12-4c16-8c50-88da0d4eece1)
-
-
-### Тестовые проекты:
-
-- Основа обучающей игры для лабораторных экспериментов по химии
-
-Скриншоты:
-![2](https://github.com/MizAless/MizAless/assets/44200635/2deb6d39-23d7-4ecd-8bc0-fd7cd88ed3bc)
-![1](https://github.com/MizAless/MizAless/assets/44200635/16176c29-6b8c-41fb-9527-31b4fccd1d7a)
-
 Количество просмотров:
 ![Visitor Count](https://profile-counter.glitch.me/MizAless/count.svg)
 
