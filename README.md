@@ -82,6 +82,12 @@ https://mizaless.itch.io/killfest
 
 [Ссылка на игру](https://yandex.ru/games/app/394326?lang=ru)
 
+### Механика из игры League of Legends 
+
+Описание: В LoL, персонаж Draven умеет метать топоры и подбирать их. Механика была повторена в жанре 3d action shooter'а.
+
+![Draven](https://github.com/user-attachments/assets/4e6bfef0-966e-4cf3-8766-b46080450b38)
+
 ### Прототип комбо системы для будущих проектов
 
 Жанр: 3rdPersonAction
