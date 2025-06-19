@@ -66,6 +66,8 @@
 
 ![Match3](https://github.com/user-attachments/assets/f64c4dab-6fc5-4e7b-a335-a3655461245a)
 
+[Ссылка на репозиторий](https://github.com/MizAless/Match3)
+
 ### DarkFlappy
 
 Описание: FlappyBird, только с возможностью убивать врагов
@@ -160,6 +162,14 @@ https://github.com/MizAless/AttackSystem
 ![image](https://github.com/MizAless/MizAless/assets/44200635/40ceeb7e-775c-4a7c-aad0-ad9a24c4e0b2)
 
 Ссылка на репозиторий: [Coin Sort](https://github.com/MizAless/CoinSort)
+
+### Игра для детей: построение башни из кубиков
+
+Игра построена на чистой архитектуре с использованием Zenject
+
+![cubes-game](https://github.com/user-attachments/assets/252a38ce-481d-4be9-ba04-7678d3850eb3)
+
+[Ссылка на репозиторий](https://github.com/MizAless/Cubes)
 
 ### UI в стиле Doom
 
