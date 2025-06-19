@@ -129,10 +129,6 @@ https://github.com/MizAless/AttackSystem
 
 Ссылка на репозиторий: https://github.com/MizAless/Pig-upid
 
-### UI в стиле Doom
-
-![gifDoomUI](https://github.com/user-attachments/assets/79515f04-2069-449b-a0e8-8852c383b8ec)
-
 ### Игра "FireCat" для SibJam
 
 Жанр: шутер с видом сверху
@@ -157,6 +153,12 @@ https://github.com/MizAless/AttackSystem
 ![image](https://github.com/MizAless/MizAless/assets/44200635/40ceeb7e-775c-4a7c-aad0-ad9a24c4e0b2)
 
 Ссылка на репозиторий: [Coin Sort](https://github.com/MizAless/CoinSort)
+
+### UI в стиле Doom
+
+Была проделана работа с адаптивной версткой интерфейса, анимациями и микшированием звуков.
+
+![gifDoomUI](https://github.com/user-attachments/assets/79515f04-2069-449b-a0e8-8852c383b8ec)
 
 Количество просмотров:
 ![Visitor Count](https://profile-counter.glitch.me/MizAless/count.svg)
