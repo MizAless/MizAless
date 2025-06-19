@@ -55,7 +55,7 @@
 ![TheLastFallIntro](https://github.com/user-attachments/assets/b24406e4-46ea-47b6-bd63-2ada66dd2614)
 ![TheLastFall](https://github.com/user-attachments/assets/8b2f29a4-a120-421b-b64b-4575e4c302bb)
 
-В джеме учавствовало более 2000 человек. В категории Compo утвердили ~500 человек.  
+В джеме участвовало более 2000 человек. В категории Compo утвердили ~500 человек.  
 Результаты джема:
 ![image](https://github.com/user-attachments/assets/aba439e8-9498-47b7-95f7-5b6aed5ab385)
 
