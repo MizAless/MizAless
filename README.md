@@ -59,7 +59,14 @@
 Результаты джема:
 ![image](https://github.com/user-attachments/assets/aba439e8-9498-47b7-95f7-5b6aed5ab385)
 
-### Pet-проект DarkFlappy
+### Match-3
+
+Описание: Игра про объединение шариков сделана с чистой архитектурой, использовался сервис локатор и входные точки, а также MVC подход.
+Есть фича сохранения лидерборда через файловую систему.
+
+![Match3](https://github.com/user-attachments/assets/48df3dce-f259-490c-a330-2c0267b2abe9)
+
+### DarkFlappy
 
 Описание: FlappyBird, только с возможностью убивать врагов
 
